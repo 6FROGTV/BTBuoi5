@@ -1,0 +1,10 @@
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\bin\Debug\Lab03-02.exe.config
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\bin\Debug\Lab03-02.exe
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\bin\Debug\Lab03-02.pdb
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03-02.csproj.AssemblyReference.cache
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03_02.Form1.resources
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03_02.Properties.Resources.resources
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03-02.csproj.GenerateResource.cache
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03-02.csproj.CoreCompileInputs.cache
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03-02.exe
+D:\2280601122_BuiAnhHuy\Buoi3_2280601122_BuiAnhHuy\Lab03-02\obj\Debug\Lab03-02.pdb
